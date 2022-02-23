@@ -1,0 +1,90 @@
+[
+  {
+    "title": "title", 
+    "code": "12345/6-78", 
+    "material": "gold",
+    "type": "rings", 
+    "date_of_creation": "2020-06-06", 
+    "price": "123"
+  },
+  {
+    "title": "title123",
+    "code": "12345/6-78",
+    "material": "gold",
+    "type": "rings",
+    "date_of_creation": "2020-06-06",
+    "price": "123"
+  },
+  {
+    "title": "title",
+    "code": "12345/-78",
+    "material": "gold",
+    "type": "rings",
+    "date_of_creation": "2020-06-06",
+    "price": "123"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "nate",
+    "type": "rings",
+    "date_of_creation": "2020-06-06",
+    "price": "123"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "gold",
+    "type": "reng",
+    "date_of_creation": "2020-06-06",
+    "price": "123"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "gold",
+    "type": "rings",
+    "date_of_creation": "2002-20-20",
+    "price": "123"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "gold",
+    "type": "rings",
+    "date_of_creation": "2021-01-03",
+    "price": "1234.124"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "silver",
+    "type": "earrings",
+    "date_of_creation": "2004-02-23",
+    "price": "400"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "platinum",
+    "type": "earrings",
+    "date_of_creation": "2016-10-16",
+    "price": "6540"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "gold",
+    "type": "bracelets",
+    "date_of_creation": "2006-05-20",
+    "price": "400"
+  },
+  {
+    "title": "title",
+    "code": "12345/6-78",
+    "material": "silver",
+    "type": "bracelets",
+    "date_of_creation": "2021-12-06",
+    "price": "200"
+  }
+]
